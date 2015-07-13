@@ -1,2 +1,2 @@
-# checklist
-A simple checklist created using HTML, CSS &amp; jQuery
+# Checklist
+A simple checklist made in HTML, CSS &amp; jQuery
